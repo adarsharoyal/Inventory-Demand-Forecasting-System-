@@ -1,0 +1,22 @@
+[theme]
+primaryColor = "#FF5733"  
+backgroundColor = "#F9F9F9"  
+secondaryBackgroundColor = "#FFFFFF"  
+textColor = "#333333"  
+font = "sans serif"
+
+[theme.dark]
+primaryColor = "#FF3E3E"  
+backgroundColor = "#121212" 
+secondaryBackgroundColor = "#1E1E1E" 
+textColor = "#EAEAEA"  
+font = "monospace"
+
+[server]
+headless = false
+
+[browser]
+serverPort = 8501
+
+[general]
+pageTitle = "ML Forecasting Project"
