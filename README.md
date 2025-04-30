@@ -1,4 +1,4 @@
-# Project: Inventory Optimization and Demand Forecasting Using Machine Learning ⚙
+# Project: Demand Forecasting system Using Machine Learning ⚙
 
 ## Overview
 
